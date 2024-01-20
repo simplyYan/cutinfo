@@ -53,3 +53,5 @@ func main() {
 1. Import the cutinfo package.
 2. Create a new CutInfo instance using cutinfo.New().
 3. Use the Target method to extract content between specified start and end tags.
+
+> A project founded by Wesley Yan Soares Brehmer
