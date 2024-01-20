@@ -1,3 +1,5 @@
+![CutInfo](cutinfo.png)
+
 # CutInfo
 
 CutInfo is a lightweight Go library designed to extract information from text based on specified start and end tags. It is a simple and efficient tool for retrieving content between two reference points in a text string.
